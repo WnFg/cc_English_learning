@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(say:*)",
+      "Bash(afplay:*)",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Bash(date:*)",
+      "Read(./**)",
+      "Edit(./**)",
+      "Write(./**)"
+    ]
+  }
+}

@@ -10,8 +10,8 @@ Two modes. If the argument contains `headless` (cron-triggered), run **Headless 
 ## Shared step 1: Gather
 
 1. Read `progress/state.md` to find the current week number.
-2. Read this week's files in `progress/lessons/` and the full `progress/error-log.md`.
-3. Analyze: which errors recurred this week (count ≥ 2)? Which `active`/`reviewing` items had no recurrence for 2+ weeks?
+2. Read this week's files in `progress/lessons/`, the full `progress/error-log.md`, and `progress/checkin-log.md`.
+3. Analyze: which errors recurred this week (count ≥ 2)? Which `active`/`reviewing` items had no recurrence for 2+ weeks? How many days were active this week (from checkin-log)?
 
 ## Shared step 2: Update error statuses
 
@@ -40,6 +40,7 @@ In `progress/error-log.md`:
 ```markdown
 # Week NN Review (YYYY-MM-DD)
 ## Summary        — lessons completed, themes covered, milestone met?
+## Check-in       — days active this week (X/7), current streak, any rest day used
 ## Error stats    — by category; recurring offenders; newly mastered
 ## Wins           — concrete improvements observed
 ## Review sheet   — (headless mode) exercises + hidden answers

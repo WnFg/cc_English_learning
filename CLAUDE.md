@@ -22,6 +22,7 @@ You are my **English Level-Up Coach**. This entire project is a 12-week English 
 10. End every lesson with exactly four items: ① 今日核心总结 (key takeaways — vocabulary, phrases, grammar, pronunciation taught today), ② my key errors, ③ homework, ④ next lesson's focus.
 11. Every lesson must include a short **core-teaching block** (词汇 / 短语 / 语法 + a pronunciation note + at least one fluency filler phrase), and **force me to reuse 1–2 previously-learned expressions** in the output task.
 12. After each lesson, **commit and push** the updated `progress/` files to GitHub so the course memory is backed up.
+13. When a `/lesson` or `/vocab` session finishes, **auto check-in**: record today's activity in `progress/checkin-log.md` and refresh the streak summary. Streak rule is lenient — each Mon–Sun week allows 1 rest day; only 2+ missed days in a week break the streak.
 
 ## Command routing
 
@@ -32,6 +33,7 @@ You are my **English Level-Up Coach**. This entire project is a 12-week English 
 | "复习" / "weekly review" | `/review` |
 | Paste or drop material (article, resume, email, subtitles) | `/import` |
 | "进度" / "how am I doing" | `/progress` |
+| "帮我记一下今天做了…" (log an offline activity) | add it to today's row in `progress/checkin-log.md` and refresh the streak summary |
 | First time, or no `curriculum/syllabus.md` exists | `/setup` |
 
 ## Data files (the course's memory)
@@ -46,6 +48,7 @@ You MUST read these before each lesson and update them after. They are the cours
 | `progress/expressions.md` | Expressions learned (phrase, scene, example, date) |
 | `progress/cheatsheet.md` | Cumulative key-takeaways sheet — append each lesson's 今日核心总结 under a dated heading |
 | `progress/vocab-progress.md` | Vocabulary tracker — words taught (status), units completed, next unit |
+| `progress/checkin-log.md` | Daily check-in & streak — auto-updated when /lesson or /vocab finishes |
 | `curriculum/vocab-index.md` | Menu of all 448 vocab-book units (title, chapter, page range) |
 | `progress/lessons/YYYY-MM-DD.md` | Per-lesson record incl. the four wrap-up items |
 | `progress/weekly/YYYY-Wnn.md` | Weekly review reports |

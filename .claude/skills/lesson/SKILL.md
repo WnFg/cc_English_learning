@@ -101,7 +101,8 @@ The first item is the **daily key summary (今日核心总结)** — a structure
 3. `progress/expressions.md`: append today's expressions (sourced from the summary).
 4. `progress/cheatsheet.md`: append today's 今日核心总结 under a dated heading (`## YYYY-MM-DD — <goal>`). If the file doesn't exist, create it with a `# Cheat Sheet` header first. This is the cumulative long-term review sheet.
 5. `progress/state.md`: advance lesson counter, set next focus, clear consumed material/homework flags.
-6. Commit and push the progress to GitHub:
+6. `progress/checkin-log.md`: add `lesson` to today's row (create the row if today isn't logged yet), then recompute the summary block (current/longest streak, this-week days, total) per the lenient streak rule in that file.
+7. Commit and push the progress to GitHub:
    ```bash
    git add progress/ curriculum/
    git commit -m "lesson: Week <N> Lesson <M> — <goal> (<date>)

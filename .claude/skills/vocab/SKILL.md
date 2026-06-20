@@ -81,7 +81,9 @@ Stage 4.
 3. `progress/cheatsheet.md`: append today's 今日单词总结 under a dated heading
    (`## YYYY-MM-DD — Vocab unit <N> <title>`). Create the file with a `# Cheat Sheet` header if
    it doesn't exist.
-4. Commit and push:
+4. `progress/checkin-log.md`: add `vocab` to today's row (create the row if today isn't logged
+   yet), then recompute the summary block per the lenient streak rule in that file.
+5. Commit and push:
    ```bash
    git add progress/ curriculum/
    git commit -m "vocab: unit <N> <title> — <count> words (<date>)

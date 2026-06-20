@@ -5,13 +5,16 @@ description: Read-only progress dashboard — current week, lessons completed, e
 
 # /progress — Progress dashboard
 
-Read-only: read `progress/state.md`, `progress/error-log.md`, `progress/expressions.md`, `curriculum/syllabus.md`, and count files in `progress/lessons/`. Do NOT modify anything.
+Read-only: read `progress/state.md`, `progress/error-log.md`, `progress/expressions.md`, `progress/checkin-log.md`, `curriculum/syllabus.md`, and count files in `progress/lessons/`. Do NOT modify anything.
 
 Present a compact dashboard (English, with the student's numbers — never invent data):
 
 ```
 📍 Week N of 12 — <theme> | Lessons completed: X
 🎯 Current focus: <from state.md>
+
+🔥 Streak: <current> days (longest <L>) | This week: <D>/7 days
+   Last 7 days: ✅✅⬜✅✅⬜✅   (✅ = active, ⬜ = rest/missed, from checkin-log.md)
 
 ❗ Errors: A active / B reviewing / C mastered
    By category: grammar X · word-choice X · collocation X · pragmatics X

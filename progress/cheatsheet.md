@@ -29,3 +29,15 @@ Cumulative key takeaways — one section per lesson. Newest at the bottom.
 - I choosed → I **chose**
 - leave from Baidu → leave Baidu
 - in this week → this week
+
+## 2026-06-20 — Vocab unit 23 人际交往 (11 words)
+
+### 职场人物
+- **colleague** /ˈkɒliːɡ/ 同事（重音在前 COLL-eague）· **superior** /suːˈpɪəriə/ 上司；上级的（su-PEER-i-or）· **boss** 老板
+
+### 性格形容词
+- **sociable** 善于交际的 · **punctual** 准时的（≠ puncture 爆胎）· **tolerant** 宽容的 · **generous** 慷慨的（be generous with）
+
+### 互动 / 语域
+- **formal / informal** 正式 / 非正式的 · **make friends with** 和…交朋友（开始认识）· **get along with** 和…相处融洽（关系好）
+- 区别: make friends with（交朋友）vs get along with（相处融洽）

@@ -18,3 +18,5 @@ Status flow: active → reviewing → mastered (recurrence sends it back to acti
 | 2026-06-20 | I choosed to leave | I chose to leave (choose→chose, irregular past) | grammar | 1 | active |
 | 2026-06-20 | leave from Baidu | leave Baidu (leave takes no "from") | collocation | 1 | active |
 | 2026-06-20 | Do you have free time in this week | Are you free this week (no "in" before this/last/next week) | grammar | 1 | active |
+| 2026-06-20 | puncture (meaning 准时) | punctual (准时的); puncture = 爆胎/刺破 | word-choice | 1 | active |
+| 2026-06-20 | she makes the team lovely | she makes the team lively / brings energy to the team | collocation | 1 | active |

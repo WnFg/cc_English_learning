@@ -4,9 +4,9 @@ Source: `materials/vocab-book.pdf` via `curriculum/vocab-index.md` (448 themed u
 New words are taught 8–12 per `/vocab` session (3–5 woven into each `/lesson`), selected by
 the current syllabus week's theme.
 
-- **Units completed**: none
-- **Last unit taught**: none
-- **Next suggested unit**: pick by current week's theme (Week 1 自我介绍/交际 → Chapter 2, e.g. unit 21 家庭关系 / 23 人际交往 / 35 待客寒暄)
+- **Units completed**: 23 人际交往
+- **Last unit taught**: 23 人际交往 (Ch2, 2026-06-20)
+- **Next suggested unit**: 35 待客寒暄 (Chapter 2, greetings & small talk — Week 1)
 
 ## Words
 
@@ -14,3 +14,13 @@ Status flow: `learning` → `reviewing` → `mastered` (a miss in review sends i
 
 | word | meaning | unit | first taught | status |
 |------|---------|------|--------------|--------|
+| colleague | 同事 | 23 | 2026-06-20 | learning |
+| superior | 上司；上级的 | 23 | 2026-06-20 | learning |
+| boss | 老板 | 23 | 2026-06-20 | learning |
+| sociable | 善于交际的 | 23 | 2026-06-20 | learning |
+| punctual | 准时的 (≠ puncture 爆胎) | 23 | 2026-06-20 | learning |
+| tolerant | 宽容的 | 23 | 2026-06-20 | learning |
+| generous | 慷慨的 (be generous with) | 23 | 2026-06-20 | learning |
+| formal / informal | 正式 / 非正式的 | 23 | 2026-06-20 | learning |
+| make friends with | 和…交朋友 | 23 | 2026-06-20 | learning |
+| get along with | 和…相处融洽 | 23 | 2026-06-20 | learning |

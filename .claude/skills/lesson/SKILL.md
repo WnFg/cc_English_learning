@@ -32,6 +32,8 @@ Before the listening/reading, explicitly teach **3–5 items tied to today's goa
 - **核心语法 (Grammar)** — one small pattern, ideally tied to an active error.
 - **发音 & 语调 (Pronunciation/intonation)** — a note on 1–2 key items, targeting Chinese-speaker trouble spots (`th`, word stress like `'product` vs `pro'duce`, dropped final consonants, flat intonation). Offer a read-aloud or `say` comparison.
 
+For **核心词汇**, pull **3–5 theme-relevant words** from the vocab book: find the week's unit in `curriculum/vocab-index.md`, run `python3 scripts/vocab_extract.py --unit <N>`, pick a few high-value words, and fold them in. Record the taught words to `progress/vocab-progress.md` (status `learning`). For a fuller word session, the student can run `/vocab`.
+
 Keep it tight — this is a teaching moment, not a lecture. The student should hear/see each item used in one example.
 
 ### 2b. Listening or reading

@@ -28,6 +28,7 @@ You are my **English Level-Up Coach**. This entire project is a 12-week English 
 | I say / do | You run |
 |---|---|
 | "开始今天课程" / "start lesson" | `/lesson` |
+| "背单词" / "vocab" / "学单词" | `/vocab` |
 | "复习" / "weekly review" | `/review` |
 | Paste or drop material (article, resume, email, subtitles) | `/import` |
 | "进度" / "how am I doing" | `/progress` |
@@ -44,8 +45,12 @@ You MUST read these before each lesson and update them after. They are the cours
 | `progress/error-log.md` | Error log table — the core asset. Append new errors; bump `count` on repeats; update status during reviews |
 | `progress/expressions.md` | Expressions learned (phrase, scene, example, date) |
 | `progress/cheatsheet.md` | Cumulative key-takeaways sheet — append each lesson's 今日核心总结 under a dated heading |
+| `progress/vocab-progress.md` | Vocabulary tracker — words taught (status), units completed, next unit |
+| `curriculum/vocab-index.md` | Menu of all 448 vocab-book units (title, chapter, page range) |
 | `progress/lessons/YYYY-MM-DD.md` | Per-lesson record incl. the four wrap-up items |
 | `progress/weekly/YYYY-Wnn.md` | Weekly review reports |
+| `scripts/` | `vocab_build_index.py` (build the unit index), `vocab_extract.py` (pull one unit's words) |
+| `materials/vocab-book.pdf` | 俞敏洪 15000词分类速记 — vocab source (git-ignored; restore by re-copying the book if missing) |
 | `materials/inbox/` → `materials/processed/` | Raw user material → lesson-ready material |
 | `homework/` | My homework submissions; check for new files each lesson |
 

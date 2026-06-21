@@ -14,15 +14,15 @@ Status flow: `learning` → `reviewing` → `mastered` (a miss in review sends i
 
 | word | meaning | unit | first taught | status |
 |------|---------|------|--------------|--------|
-| colleague | 同事 | 23 | 2026-06-20 | learning |
-| superior | 上司；上级的 | 23 | 2026-06-20 | learning |
-| boss | 老板 | 23 | 2026-06-20 | learning |
-| sociable | 善于交际的 | 23 | 2026-06-20 | learning |
-| punctual | 准时的 (≠ puncture 爆胎) | 23 | 2026-06-20 | learning |
-| tolerant | 宽容的 | 23 | 2026-06-20 | learning |
-| generous | 慷慨的 (be generous with) | 23 | 2026-06-20 | learning |
-| formal / informal | 正式 / 非正式的 | 23 | 2026-06-20 | learning |
-| make friends with | 和…交朋友 | 23 | 2026-06-20 | learning |
-| get along with | 和…相处融洽 | 23 | 2026-06-20 | learning |
-| coincidence | 巧合 | 35 | 2026-06-21 | learning |
-| have sth. in common | 有共同点 | 35 | 2026-06-21 | learning |
+| colleague | 同事 | 23 | 2026-06-20 | reviewing |
+| superior | 上司；上级的 | 23 | 2026-06-20 | reviewing |
+| boss | 老板 | 23 | 2026-06-20 | reviewing |
+| sociable | 善于交际的 | 23 | 2026-06-20 | reviewing |
+| punctual | 准时的 (≠ puncture 爆胎) | 23 | 2026-06-20 | reviewing |
+| tolerant | 宽容的 | 23 | 2026-06-20 | reviewing |
+| generous | 慷慨的 (be generous with) | 23 | 2026-06-20 | reviewing |
+| formal / informal | 正式 / 非正式的 | 23 | 2026-06-20 | reviewing |
+| make friends with | 和…交朋友 | 23 | 2026-06-20 | reviewing |
+| get along with | 和…相处融洽 | 23 | 2026-06-20 | reviewing |
+| coincidence | 巧合 | 35 | 2026-06-21 | reviewing |
+| have sth. in common | 有共同点 | 35 | 2026-06-21 | reviewing |

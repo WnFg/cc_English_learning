@@ -30,6 +30,32 @@ Cumulative key takeaways — one section per lesson. Newest at the bottom.
 - leave from Baidu → leave Baidu
 - in this week → this week
 
+## 2026-06-21 — Lesson 2: Past-tense storytelling (goal: consistent past tense in work stories)
+
+### 词汇 Vocabulary
+- **coincidence** /kəʊˈɪnsɪdəns/ 巧合 · **have sth. in common** 有共同点
+- **run into a problem** → past: **ran into** a problem (遇到问题)
+
+### 短语 Phrases (incl. filler)
+- **"it turned out (that)..."** — revealing the cause: "It turned out the config was wrong."
+- **"in the end, I managed to..."** — ending a story: "In the end, I managed to fix it before lunch."
+- **"you got a minute?"** — casual opener to start a conversation with a colleague
+- **"Let me think for a second…"** — filler when you need time; keep talking, don't switch to Chinese
+
+### 语法 Grammar
+- **Past tense consistency**: once you start a story in past, ALL verbs must be past — stopped, checked, ran, turned out, managed. No switching back to present (❌ "mismatches" → ✅ "didn't match")
+- Key irregular past: go→went, choose→chose, run→ran, find→found, take→took, have→had, meet→met
+
+### 发音 Pronunciation
+- **"turned"** = /tɜːrnd/ — pronounce the final -d, don't drop it
+- **"managed"** = **MAN**-aged — stress on first syllable
+
+### 易错清单 Error checklist
+- tense switch mid-story: "mismatches" → **didn't match**
+- "an another" → **another** (already contains "an")
+- "lot's of" → **a lot of** (no apostrophe)
+- "replace X to Y" → **replace X with Y**
+
 ## 2026-06-20 — Vocab unit 23 人际交往 (11 words)
 
 ### 职场人物

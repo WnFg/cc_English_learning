@@ -1,10 +1,10 @@
 # Course State
 
 - **Status**: active (started 2026-06-12)
-- **Week**: 2 — Storytelling (past experiences)
-- **Lesson**: 2 completed (next = Lesson 3)
-- **Next lesson focus**: past tense storytelling with timeframes ("by Friday", "two hours later") and transitions ("so", "then", "after that")
+- **Week**: 3 — Status updates
+- **Lesson**: 3 completed (next = Week 3 Lesson 1)
+- **Next lesson focus**: status updates — answering "When can you finish it?" with 3-part structure: done / doing / next + timeframes ("I've finished X, I'm working on Y, I'll finish by Z")
 - **Pending material**: none
-- **Pending homework to check**: yes (5–6 sentence past-tense story; must include "it turned out..." + "in the end, I managed to..." + ≥1 irregular past verb)
+- **Pending homework to check**: yes (6-sentence past-tense story with 3 transitions/timeframes, "it turned out", "in the end I managed to", and 1 passive voice sentence)
 - **Last weekly review**: 2026-W26 (2026-06-21)
-- **Assessment note**: production ~A2+–B1; biggest gaps = past tense consistency (count 5, most recurring error), collocation (replace X with Y), articles; responds well to role-play; tends to replay audio instead of producing output — push to produce earlier next time
+- **Assessment note**: production ~A2+–B1; biggest gaps = passive voice (new, lesson 3), past tense consistency (count 5, improving), time prepositions (recurring); good story arc instincts; "it turned out / in the end I managed to" now used naturally; responds well to role-play; push to produce output earlier

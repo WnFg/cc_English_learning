@@ -56,6 +56,32 @@ Cumulative key takeaways — one section per lesson. Newest at the bottom.
 - "lot's of" → **a lot of** (no apostrophe)
 - "replace X to Y" → **replace X with Y**
 
+## 2026-06-22 — Lesson 3: Timeframes & transitions (goal: tell a complete work story)
+
+### 词汇 Vocabulary
+- **deadline** 截止日期 · **eventually** 最终（e-VENT-chually, 4 syllables）
+- **meanwhile** 与此同时（MEAN-while, stress on first）· **relief** 如释重负
+- **a bit of a nightmare** 有点糟糕（口语夸张） · **went smoothly** 进展顺利
+
+### 短语 Phrases (incl. filler)
+- Timeframes: **by Friday** / **two hours later** / **at the last minute**
+- Transitions: **so** / **after that** / **meanwhile** / **in the meantime**
+- Filler: **"How should I put this…"** — buy 2 seconds, don't go silent or switch to Chinese
+
+### 语法 Grammar
+- **Passive voice**: wasn't + **past participle** — ❌ wasn't be affected → ✅ **wasn't affected**
+- **Time prepositions**: ON Wednesday (days); NO preposition before last/next/this week
+
+### 发音 Pronunciation
+- **eventually** = e-**VENT**-chually (4 syllables, stress 2nd)
+- **meanwhile** = **MEAN**-while (stress 1st)
+
+### 易错清单 Error checklist
+- wasn't be affected → **wasn't affected** (no extra "be")
+- in Wednesday → **on Wednesday**
+- in last week → **last week** (no "in")
+- wasn't smoothly → **didn't go smoothly**
+
 ## 2026-06-20 — Vocab unit 23 人际交往 (11 words)
 
 ### 职场人物

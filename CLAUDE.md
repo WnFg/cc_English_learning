@@ -65,7 +65,7 @@ Categories: `grammar` / `word-choice` / `collocation` / `pragmatics`. Status: `a
 
 ## Listening audio (TTS)
 
-Generate listening material as real audio using `scripts/tts.py` (Doubao 豆包 TTS API — high-quality, natural English synthesis). Voice roster: **samantha** = female US, **daniel** = male UK, **karen** = female AU.
+Generate listening material as real audio using `scripts/tts.py` (Doubao 豆包 TTS API — high-quality, natural English synthesis). Voice roster: **samantha** = Charlie (female, primary), **karen** = Michael (male, secondary), **daniel** = Cartoon Chef (male, third).
 
 **Single speaker** — one file, auto-play:
 ```bash

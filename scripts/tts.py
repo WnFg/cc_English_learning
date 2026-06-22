@@ -29,8 +29,8 @@ except ImportError:
     sys.exit("Error: 'requests' package not found. Run: pip install requests")
 
 # ── API constants ────────────────────────────────────────────────────────────
-API_URL = "https://openspeech.bytedance.com/api/v3/tts/unidirectional"
-RESOURCE_ID = "seed-tts-2.0"
+API_URL     = "https://openspeech.bytedance.com/api/v3/tts/unidirectional"
+RESOURCE_ID = "seed-tts-2.0"   # works for both built-in and ICL_* voices
 
 # Map macOS `say -r` word-per-minute values → Doubao speech_rate
 # Doubao range: -50 (0.5×) to 100 (2.0×); 0 = natural speed
@@ -127,7 +127,8 @@ def synthesize(text: str, speaker: str, api_key: str, speech_rate: int) -> bytes
                 continue
 
             code = chunk.get("code")
-            if code is not None and code != 0:
+            # Success codes: 0 = standard OK, 20000000 = streaming OK
+            if code is not None and code not in (0, 20000000):
                 sys.exit(f"API error {code}: {chunk.get('message', 'unknown error')}")
 
             data = chunk.get("data")

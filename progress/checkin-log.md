@@ -20,4 +20,4 @@ alive but don't add to the active-day count. The 🏆 longest streak is never re
 |------|------------|------|
 | 2026-06-20 | lesson, vocab | Lesson 1 (articles) + vocab unit 23 人际交往 |
 | 2026-06-21 | lesson | Lesson 2 (past tense storytelling) |
-| 2026-06-22 | lesson | Lesson 3 (timeframes & transitions, passive voice) |
+| 2026-06-22 | lesson, review | Lesson 3 (timeframes & transitions, passive voice) + W27 interactive review |

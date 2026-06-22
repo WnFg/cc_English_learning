@@ -65,22 +65,23 @@ Categories: `grammar` / `word-choice` / `collocation` / `pragmatics`. Status: `a
 
 ## Listening audio (TTS)
 
-Generate listening material as real audio.
+Generate listening material as real audio using `scripts/tts.py` (Doubao 豆包 TTS API — high-quality, natural English synthesis). Voice roster: **samantha** = female US, **daniel** = male UK, **karen** = female AU.
 
-**Single speaker** — one file:
+**Single speaker** — one file, auto-play:
 ```bash
-say -v Samantha -r 170 -o "materials/audio/$(date +%F)-1.aiff" "TEXT HERE"
-afplay "materials/audio/$(date +%F)-1.aiff"
+python scripts/tts.py --text "TEXT HERE" --voice samantha --rate 170 \
+  --output "materials/audio/$(date +%F)-1.mp3" --play
 ```
 
-**Multiple speakers** — use a different voice per character (roster: Samantha = female US, Daniel = male UK, Karen = female AU). One segment per turn, played in order:
+**Multiple speakers** — one segment per turn, played in order:
 ```bash
 D="materials/audio/$(date +%F)"
-say -v Samantha -r 170 -o "${D}-seg1.aiff" "Speaker A's line…"
-say -v Daniel   -r 170 -o "${D}-seg2.aiff" "Speaker B's line…"
-for f in ${D}-seg*.aiff; do afplay "$f"; done
+python scripts/tts.py --text "Speaker A's line…" --voice samantha --rate 170 --output "${D}-seg1.mp3"
+python scripts/tts.py --text "Speaker B's line…" --voice daniel   --rate 170 --output "${D}-seg2.mp3"
+for f in ${D}-seg*.mp3; do afplay "$f"; done
 ```
 
 - For dictation: play the audio FIRST, do not show the text until I've attempted it.
-- Use `-r 150` for slower replays if I ask, `-r 190` for a challenge.
+- Use `--rate 150` for slower replays if I ask, `--rate 190` for a challenge.
 - Offer to replay; reveal the transcript only after my attempt.
+- Env vars required: `DOUBAO_API_KEY`, `DOUBAO_SPEAKER_SAMANTHA`, `DOUBAO_SPEAKER_DANIEL`, `DOUBAO_SPEAKER_KAREN` — see `scripts/env.example`.

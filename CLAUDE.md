@@ -84,4 +84,4 @@ for f in ${D}-seg*.mp3; do afplay "$f"; done
 - For dictation: play the audio FIRST, do not show the text until I've attempted it.
 - Use `--rate 150` for slower replays if I ask, `--rate 190` for a challenge.
 - Offer to replay; reveal the transcript only after my attempt.
-- Env vars required: `DOUBAO_API_KEY`, `DOUBAO_SPEAKER_SAMANTHA`, `DOUBAO_SPEAKER_DANIEL`, `DOUBAO_SPEAKER_KAREN` — see `scripts/env.example`.
+- Env vars required: `DOUBAO_API_KEY`, `DOUBAO_SPEAKER_SAMANTHA`, `DOUBAO_SPEAKER_DANIEL`, `DOUBAO_SPEAKER_KAREN` — credentials are in `scripts/.env` (git-ignored). Before generating audio, run: `source scripts/.env`
